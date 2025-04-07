@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Retext Updates</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description><![CDATA[
+                <h2>First Release of Retext</h2>
+                <ul>
+                    <li>Initial release with text replacement features</li>
+                    <li>Accessibility permissions handling</li>
+                    <li>Automatic updates via Sparkle</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.0.0/Retext-1.0.0.zip"
+                sparkle:version="1.0.0"
+                sparkle:shortVersionString="1.0.0"
+                length="[file size in bytes]"
+                type="application/octet-stream"
+                sparkle:edSignature="[signature from sign_update tool]" />
+        </item>
+    </channel>
+</rss>

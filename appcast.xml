@@ -5,19 +5,19 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.13</title>
+            <title>Version 1.0.14</title>
             <description><![CDATA[
-                <h3>Retext 1.0.13</h3>
+                <h3>Retext 1.0.14</h3>
                 <p>Latest release with bug fixes and improvements.</p>
             ]]></description>
-            <pubDate>Tue, 13 Jan 2026 20:29:53 +0000</pubDate>
+            <pubDate>Tue, 13 Jan 2026 20:37:37 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/Retext/releases/download/v1.0.13/Retext-1.0.13.dmg"
-                sparkle:version="1.0.13"
-                sparkle:shortVersionString="1.0.13"
-                length="1718725"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.0.14/Retext-1.0.14.dmg"
+                sparkle:version="1.0.14"
+                sparkle:shortVersionString="1.0.14"
+                length="1719068"
                 type="application/octet-stream"
-                sparkle:edSignature="3jr2BPXPf3WVwoNr/TO+O6nw+T9oJL2I7/5CX1XPcyyl2ZK/tm2rWxkJir5yEEKZgkXM7zSWZufUXucBSzQpBw==" />
+                sparkle:edSignature="7lRoRR1Tth2xTWkpbHLLlmVKkjgzTs1nFAct39Za187Ux1muV3j6npagPTExdSB6cq8VAM1Fayn8jnrSuuFLAA==" />
         </item>
     </channel>
 </rss>

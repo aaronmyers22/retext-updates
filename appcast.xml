@@ -5,29 +5,29 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.18</title>
+            <title>Version 1.0.19</title>
             <description><![CDATA[
-                <h3>Retext 1.0.18</h3>
-                <h3>What's New
+                <h3>Retext 1.0.19</h3>
+                <h3>What's New</h3>
 
-<h4>Snippet Validation
-<li><strong>Infinite Loop Prevention</strong> - Snippets that would trigger themselves are now blocked
-<li><strong>Empty Content Detection</strong> - Prevents saving snippets with empty titles or content
-<li><strong>Title Length Limits</strong> - Keeps snippet titles manageable (max 40 characters)
+<h4>Snippet Validation</h4>
+<li><strong>Infinite Loop Prevention</strong> - Snippets that would trigger themselves are now blocked</li>
+<li><strong>Empty Content Detection</strong> - Prevents saving snippets with empty titles or content</li>
+<li><strong>Title Length Limits</strong> - Keeps snippet titles manageable (max 40 characters)</li>
 
-<h4>Improvements
-<li>Better error messages when snippet validation fails
-<li>Warnings for titles containing spaces
-<li>Improved stability and reliability
+<h4>Improvements</h4>
+<li>Better error messages when snippet validation fails</li>
+<li>Warnings for titles containing spaces</li>
+<li>Improved stability and reliability</li>
             ]]></description>
-            <pubDate>Wed, 14 Jan 2026 01:31:16 +0000</pubDate>
+            <pubDate>Wed, 14 Jan 2026 01:45:21 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.0.18/Retext-1.0.18.dmg"
-                sparkle:version="1.0.18"
-                sparkle:shortVersionString="1.0.18"
-                length="1812711"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.0.19/Retext-1.0.19.dmg"
+                sparkle:version="1.0.19"
+                sparkle:shortVersionString="1.0.19"
+                length="1812844"
                 type="application/octet-stream"
-                sparkle:edSignature="xR1SU1w5Vbankz9zZzDvKrblALVMzyyylDvBVtZ9gblxjUAmTda+RVmHnP8au8xCkwMOv+sEzhdov+Rp2exlCw==" />
+                sparkle:edSignature="OyFUX/+TkOa5oZbvf/H0UKMZyCvTtku+3vjktuWcJAhC46skeGsc6G2nQMVx6CUmXOa+cEqyIK8bWrGrIAiHDg==" />
         </item>
     </channel>
 </rss>

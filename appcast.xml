@@ -5,29 +5,29 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.17</title>
+            <title>Version 1.0.18</title>
             <description><![CDATA[
-                <h3>Retext 1.0.17</h3>
-                <h4>New Features</h4>
-                <ul>
-                    <li><strong>Snippet Validation</strong> - Snippets are now validated before saving to prevent issues</li>
-                    <li><strong>Infinite Loop Prevention</strong> - The app now detects and prevents snippets that would trigger themselves infinitely</li>
-                </ul>
-                <h4>Improvements</h4>
-                <ul>
-                    <li>Added validation for empty titles and content</li>
-                    <li>Added warning for titles with spaces</li>
-                    <li>Improved test coverage with 41 unit tests</li>
-                </ul>
+                <h3>Retext 1.0.18</h3>
+                <h3>What's New
+
+<h4>Snippet Validation
+<li><strong>Infinite Loop Prevention</strong> - Snippets that would trigger themselves are now blocked
+<li><strong>Empty Content Detection</strong> - Prevents saving snippets with empty titles or content
+<li><strong>Title Length Limits</strong> - Keeps snippet titles manageable (max 40 characters)
+
+<h4>Improvements
+<li>Better error messages when snippet validation fails
+<li>Warnings for titles containing spaces
+<li>Improved stability and reliability
             ]]></description>
-            <pubDate>Wed, 14 Jan 2026 01:19:34 +0000</pubDate>
+            <pubDate>Wed, 14 Jan 2026 01:31:16 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.0.17/Retext-1.0.17.dmg"
-                sparkle:version="1.0.17"
-                sparkle:shortVersionString="1.0.17"
-                length="1812947"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.0.18/Retext-1.0.18.dmg"
+                sparkle:version="1.0.18"
+                sparkle:shortVersionString="1.0.18"
+                length="1812711"
                 type="application/octet-stream"
-                sparkle:edSignature="ZIejy6sP0GxUPYNcT9Hy83UliX8b/VUTX+KRGm3JCq3p3zqko1aJO3IdDZdhnXZa1eiL7AMOlzNFN0l2YFxUAQ==" />
+                sparkle:edSignature="xR1SU1w5Vbankz9zZzDvKrblALVMzyyylDvBVtZ9gblxjUAmTda+RVmHnP8au8xCkwMOv+sEzhdov+Rp2exlCw==" />
         </item>
     </channel>
 </rss>

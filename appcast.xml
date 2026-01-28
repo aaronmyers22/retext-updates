@@ -5,9 +5,9 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 1.2.1</title>
             <description><![CDATA[
-                <h3>Retext 1.2.0</h3>
+                <h3>Retext 1.2.1</h3>
                 <h3>What's New</h3>
 
 <h4>Retext Cloud — AI Generation Without an API Key</h4>
@@ -59,14 +59,14 @@
 <li>Better error messages when snippet validation fails</li>
 <li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Wed, 28 Jan 2026 01:14:41 +0000</pubDate>
+            <pubDate>Wed, 28 Jan 2026 01:29:40 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.0/Retext-1.2.0.dmg"
-                sparkle:version="1.2.0"
-                sparkle:shortVersionString="1.2.0"
-                length="2170104"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.1/Retext-1.2.1.dmg"
+                sparkle:version="1.2.1"
+                sparkle:shortVersionString="1.2.1"
+                length="2170123"
                 type="application/octet-stream"
-                sparkle:edSignature="MB0cBxxAVhd0ynHJ3/V0SAzTMP0YKEwAT3KgBdHXZSkogDqr44UuwN9ulaGrNxyW4o+kjLQp8Plw9zb3h43dAw==" />
+                sparkle:edSignature="6rbejUPQNlF4s6kKKa9YwPRZQKVtPIyPh3xTLjoFV+ockzA5nsfaipl/xsJeTBV1O490FJoNVbgkZu3hm7XECQ==" />
         </item>
     </channel>
 </rss>

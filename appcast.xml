@@ -5,33 +5,25 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.5</title>
+            <title>Version 1.2.6</title>
             <description><![CDATA[
-                <h3>Retext 1.2.5</h3>
+                <h3>Retext 1.2.6</h3>
                 <h3>What's New</h3>
+
+<h4>AI Generation — Now Pro-Only</h4>
+<li><strong>Retext Cloud Enabled</strong> — AI snippet generation is now powered exclusively by Retext Cloud</li>
+<li><strong>Pro Feature</strong> — AI generation requires a Pro license for unlimited use</li>
+<li><strong>No API Key Needed</strong> — Pro users get seamless AI generation without managing API keys</li>
+<li><strong>Upgrade Prompts</strong> — Free users see a clear upgrade path to unlock AI features</li>
 
 <h4>Automatic Update Notifications</h4>
 <li><strong>Never Miss an Update</strong> — Retext now checks for updates automatically when you launch the app</li>
 <li><strong>Instant Prompts</strong> — If a new version is available, you'll see the update dialog within seconds of launching</li>
 <li><strong>Background Checks</strong> — Continues checking every 4 hours while the app is running</li>
 
-<h4>AI Generation Update</h4>
-<li><strong>Retext Cloud Temporarily Disabled</strong> — The cloud-based AI generation feature is being finalized and will return in a future update</li>
-<li><strong>Use Your Own API Key</strong> — AI snippet generation requires your Anthropic API key (Settings → AI Generation)</li>
-<li><strong>Secure Key Storage</strong> — Your API key is stored in macOS Keychain and sent directly to Anthropic</li>
-
 ---
 
 <h3>Previous Releases</h3>
-
-<h4>Retext Cloud — AI Generation Without an API Key (Coming Soon)</h4>
-<li><strong>No API Key Required</strong> — Generate snippet content using AI through Retext Cloud, no Anthropic API key needed</li>
-<li><strong>Service Mode Picker</strong> — Choose between "Retext Cloud" or "Your Own API Key" in Settings → AI Generation</li>
-<li><strong>Free Tier</strong> — 5 AI generations per day with Retext Cloud (resets daily)</li>
-<li><strong>Pro Tier</strong> — Unlimited AI generations with Retext Cloud</li>
-<li><strong>BYOK Still Supported</strong> — Existing users with their own Anthropic API key can continue using it directly</li>
-
----
 
 <h4>Tag-Based Organization</h4>
 <li><strong>New Three-Panel Layout</strong> - Tags sidebar, snippet list, and detail view</li>
@@ -71,14 +63,14 @@
 <li>Better error messages when snippet validation fails</li>
 <li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Fri, 30 Jan 2026 21:34:15 +0000</pubDate>
+            <pubDate>Fri, 30 Jan 2026 21:54:04 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.5/Retext-1.2.5.dmg"
-                sparkle:version="1.2.5"
-                sparkle:shortVersionString="1.2.5"
-                length="2171249"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.6/Retext-1.2.6.dmg"
+                sparkle:version="1.2.6"
+                sparkle:shortVersionString="1.2.6"
+                length="2139987"
                 type="application/octet-stream"
-                sparkle:edSignature="3Sw3yqse6viP9+0hdJgHBahsls9nfx/m9NrwI4OOEvd2avyT2V0uOnPF8/A5eCtUULBzYUsIaPomNXNCFVKnCg==" />
+                sparkle:edSignature="YQRxiEanScwi9JMr/hYABgwatLE8syfqSm1noeQ5HzJKjyD74QK0DC/WEDHaXJi8Zs4WNDJ0q12NIvExNnpmAg==" />
         </item>
     </channel>
 </rss>

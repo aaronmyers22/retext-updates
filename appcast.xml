@@ -5,10 +5,18 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.7</title>
+            <title>Version 1.2.8</title>
             <description><![CDATA[
-                <h3>Retext 1.2.7</h3>
+                <h3>Retext 1.2.8</h3>
                 <h3>What's New</h3>
+
+<h4>Under the Hood</h4>
+<li><strong>Improved Test Coverage</strong> — Added 64+ unit tests covering snippet validation, tag filtering, keyboard shortcuts, and view state management</li>
+<li><strong>Code Quality</strong> — Better reliability through comprehensive testing of core models</li>
+
+---
+
+<h3>Previous Releases</h3>
 
 <h4>Smarter Snippet Validation</h4>
 <li><strong>Real-time feedback</strong> — See errors and warnings as you type, before saving</li>
@@ -68,14 +76,14 @@
 <li>Better error messages when snippet validation fails</li>
 <li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Fri, 30 Jan 2026 22:48:54 +0000</pubDate>
+            <pubDate>Fri, 30 Jan 2026 23:07:06 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.7/Retext-1.2.7.dmg"
-                sparkle:version="1.2.7"
-                sparkle:shortVersionString="1.2.7"
-                length="2192753"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.8/Retext-1.2.8.dmg"
+                sparkle:version="1.2.8"
+                sparkle:shortVersionString="1.2.8"
+                length="2192770"
                 type="application/octet-stream"
-                sparkle:edSignature="dL8LVOyNg74TTuMeCR6+6I7w6nyCcdtbYeYQGzM+5aZOCUU9rzFPPbwfpPaPctzq7iUcROKGDpmtluyw3xSEAw==" />
+                sparkle:edSignature="cnVTNibt0CalKSD4JFdDH4lL982Li8vqbDe+Rs910fevG3lH0qmxeVzJQEYWe1bu1V39gFxjEII6z5App9LXBg==" />
         </item>
     </channel>
 </rss>

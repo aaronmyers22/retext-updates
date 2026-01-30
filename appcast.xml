@@ -5,10 +5,15 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.2</title>
+            <title>Version 1.2.3</title>
             <description><![CDATA[
-                <h3>Retext 1.2.2</h3>
+                <h3>Retext 1.2.3</h3>
                 <h3>What's New</h3>
+
+<h4>Automatic Update Notifications</h4>
+<li><strong>Never Miss an Update</strong> — Retext now checks for updates automatically when you launch the app</li>
+<li><strong>Instant Prompts</strong> — If a new version is available, you'll see the update dialog within seconds of launching</li>
+<li><strong>Background Checks</strong> — Continues checking every 4 hours while the app is running</li>
 
 <h4>AI Generation Update</h4>
 <li><strong>Retext Cloud Temporarily Disabled</strong> — The cloud-based AI generation feature is being finalized and will return in a future update</li>
@@ -66,14 +71,14 @@
 <li>Better error messages when snippet validation fails</li>
 <li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Fri, 30 Jan 2026 19:33:27 +0000</pubDate>
+            <pubDate>Fri, 30 Jan 2026 19:56:24 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.2/Retext-1.2.2.dmg"
-                sparkle:version="1.2.2"
-                sparkle:shortVersionString="1.2.2"
-                length="2161771"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.3/Retext-1.2.3.dmg"
+                sparkle:version="1.2.3"
+                sparkle:shortVersionString="1.2.3"
+                length="2161092"
                 type="application/octet-stream"
-                sparkle:edSignature="TqMwpr9semcHsftKjtD+yUcAc/hhgRWR6gXWAtlrmwWESnquVLpoKHzARvBucjTbLsr5DNdHi3lOCTuIDfk9Dg==" />
+                sparkle:edSignature="GhVxNETVfT356rl/BxTDOIcRIHX4SqEOJb1aPdHUe9n5kxHer3H8qIInTz/rJjhnMqoS60VBo2hbVO+xpatxCQ==" />
         </item>
     </channel>
 </rss>

@@ -5,16 +5,21 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.6</title>
+            <title>Version 1.2.7</title>
             <description><![CDATA[
-                <h3>Retext 1.2.6</h3>
+                <h3>Retext 1.2.7</h3>
                 <h3>What's New</h3>
 
-<h4>AI Generation — Now Pro-Only</h4>
-<li><strong>Retext Cloud Enabled</strong> — AI snippet generation is now powered exclusively by Retext Cloud</li>
+<h4>Smarter Snippet Validation</h4>
+<li><strong>Real-time feedback</strong> — See errors and warnings as you type, before saving</li>
+<li><strong>Duplicate detection</strong> — Prevents creating snippets with the same trigger</li>
+<li><strong>Helpful warnings</strong> — Get tips when using spaces, common words, or overlapping triggers</li>
+<li><strong>Best practices help</strong> — Click the (?) icon for tips on creating effective snippets</li>
+
+<h4>AI Generation — Pro-Only</h4>
+<li><strong>Retext Cloud Enabled</strong> — AI snippet generation powered exclusively by Retext Cloud</li>
 <li><strong>Pro Feature</strong> — AI generation requires a Pro license for unlimited use</li>
 <li><strong>No API Key Needed</strong> — Pro users get seamless AI generation without managing API keys</li>
-<li><strong>Upgrade Prompts</strong> — Free users see a clear upgrade path to unlock AI features</li>
 
 <h4>Automatic Update Notifications</h4>
 <li><strong>Never Miss an Update</strong> — Retext now checks for updates automatically when you launch the app</li>
@@ -63,14 +68,14 @@
 <li>Better error messages when snippet validation fails</li>
 <li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Fri, 30 Jan 2026 21:54:04 +0000</pubDate>
+            <pubDate>Fri, 30 Jan 2026 22:48:54 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.6/Retext-1.2.6.dmg"
-                sparkle:version="1.2.6"
-                sparkle:shortVersionString="1.2.6"
-                length="2139987"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.7/Retext-1.2.7.dmg"
+                sparkle:version="1.2.7"
+                sparkle:shortVersionString="1.2.7"
+                length="2192753"
                 type="application/octet-stream"
-                sparkle:edSignature="YQRxiEanScwi9JMr/hYABgwatLE8syfqSm1noeQ5HzJKjyD74QK0DC/WEDHaXJi8Zs4WNDJ0q12NIvExNnpmAg==" />
+                sparkle:edSignature="dL8LVOyNg74TTuMeCR6+6I7w6nyCcdtbYeYQGzM+5aZOCUU9rzFPPbwfpPaPctzq7iUcROKGDpmtluyw3xSEAw==" />
         </item>
     </channel>
 </rss>

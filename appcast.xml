@@ -5,9 +5,9 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.3</title>
+            <title>Version 1.2.4</title>
             <description><![CDATA[
-                <h3>Retext 1.2.3</h3>
+                <h3>Retext 1.2.4</h3>
                 <h3>What's New</h3>
 
 <h4>Automatic Update Notifications</h4>
@@ -71,14 +71,14 @@
 <li>Better error messages when snippet validation fails</li>
 <li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Fri, 30 Jan 2026 19:56:24 +0000</pubDate>
+            <pubDate>Fri, 30 Jan 2026 20:31:43 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.3/Retext-1.2.3.dmg"
-                sparkle:version="1.2.3"
-                sparkle:shortVersionString="1.2.3"
-                length="2161092"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.4/Retext-1.2.4.dmg"
+                sparkle:version="1.2.4"
+                sparkle:shortVersionString="1.2.4"
+                length="2153354"
                 type="application/octet-stream"
-                sparkle:edSignature="GhVxNETVfT356rl/BxTDOIcRIHX4SqEOJb1aPdHUe9n5kxHer3H8qIInTz/rJjhnMqoS60VBo2hbVO+xpatxCQ==" />
+                sparkle:edSignature="zQzeN0MlnDL7J9oI8qhqnei9g2AWnfn/+uKrreIM/NelkAdAtS8R9JTJAQnKex0i9l5Sbs16oVqego3ow8RnDA==" />
         </item>
     </channel>
 </rss>

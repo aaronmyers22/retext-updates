@@ -5,10 +5,18 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.9</title>
+            <title>Version 1.3.0</title>
             <description><![CDATA[
-                <h3>Retext 1.2.9</h3>
-                <h3>What's New</h3>
+                <h3>Retext 1.3.0</h3>
+                <h3>What's New in v1.3.0</h3>
+
+<h4>New Branded App Icon</h4>
+<li><strong>Fresh Look</strong> — New green logo with white "R" matches the retext.io website</li>
+<li><strong>Better Recognition</strong> — Stand out in your Dock and app switcher</li>
+
+<h4>Enhanced About Window</h4>
+<li><strong>Credits</strong> — Retext menu → About Retext now shows tagline and website link</li>
+<li><strong>Copyright</strong> — Displays "© 2024-2026 Retext. All rights reserved."</li>
 
 <h4>Snippet Settings</h4>
 <li><strong>Max Title Length</strong> — Set your preferred limit (10-40 characters) in Settings</li>
@@ -29,75 +37,30 @@
 
 <h3>Previous Releases</h3>
 
-<h4>Test Coverage</h4>
+<h4>v1.2.x — Test Coverage & AI Generation</h4>
 <li>Added 64+ unit tests covering snippet validation, tag filtering, keyboard shortcuts, and view state management</li>
+<li>Retext Cloud AI generation (Pro-only)</li>
+<li>Automatic update notifications on app launch</li>
 
-<h4>Smarter Snippet Validation</h4>
-<li><strong>Real-time feedback</strong> — See errors and warnings as you type, before saving</li>
-<li><strong>Duplicate detection</strong> — Prevents creating snippets with the same trigger</li>
-<li><strong>Helpful warnings</strong> — Get tips when using spaces, common words, or overlapping triggers</li>
-<li><strong>Best practices help</strong> — Click the (?) icon for tips on creating effective snippets</li>
+<h4>v1.1.x — Tag-Based Organization</h4>
+<li>New three-panel layout with tags sidebar</li>
+<li>Add tags to snippets for organization</li>
+<li>Filter snippets by tag</li>
 
-<h4>AI Generation — Pro-Only</h4>
-<li><strong>Retext Cloud Enabled</strong> — AI snippet generation powered exclusively by Retext Cloud</li>
-<li><strong>Pro Feature</strong> — AI generation requires a Pro license for unlimited use</li>
-<li><strong>No API Key Needed</strong> — Pro users get seamless AI generation without managing API keys</li>
-
-<h4>Automatic Update Notifications</h4>
-<li><strong>Never Miss an Update</strong> — Retext now checks for updates automatically when you launch the app</li>
-<li><strong>Instant Prompts</strong> — If a new version is available, you'll see the update dialog within seconds of launching</li>
-<li><strong>Background Checks</strong> — Continues checking every 4 hours while the app is running</li>
-
----
-
-<h3>Previous Releases</h3>
-
-<h4>Tag-Based Organization</h4>
-<li><strong>New Three-Panel Layout</strong> - Tags sidebar, snippet list, and detail view</li>
-<li><strong>Add Tags to Snippets</strong> - Organize your snippets with custom tags</li>
-<li><strong>Filter by Tag</strong> - Click a tag in the left sidebar to filter snippets</li>
-<li><strong>Tag Chips</strong> - See tags at a glance on snippet rows</li>
-<li><strong>"All Snippets" View</strong> - Click "All Snippets" to see everything</li>
-
----
-
-<h3>Previous Release</h3>
-
-<h4>Redesigned Interface</h4>
-<li><strong>New NavigationSplitView Layout</strong> - Modern two-column design with native sidebar behavior</li>
-<li><strong>Improved Add Snippet</strong> - Always-visible "New Snippet" button at the bottom of the sidebar with tinted style</li>
-<li><strong>Cleaner Toolbar</strong> - License badge and settings buttons on the right, removed logo for more space</li>
-
-<h4>Visual Improvements</h4>
-<li>Softer, easier-on-the-eyes color palette throughout</li>
-<li>Tinted button style for New Snippet (accent text on subtle accent background)</li>
-<li>Hover effects on sidebar items and buttons for better interactivity</li>
-<li>Consistent styling with rounded corners throughout</li>
-<li>Better visual hierarchy with muted placeholder states</li>
+<h4>v1.0.x — Initial Release</h4>
+<li>NavigationSplitView layout with sidebar</li>
+<li>Tinted button styles and hover effects</li>
+<li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
-
-<h4>Bug Fixes</h4>
-<li>Fixed snippet selection not working when clicking a different snippet while editing</li>
-<li>Fixed New Snippet button requiring double-click when a snippet was selected</li>
-<li>Fixed process name showing blank in Activity Monitor</li>
-<li>Fixed modal windows briefly reappearing when closing</li>
-<li>Improved state management for sheets and dialogs</li>
-
-<h4>Snippet Validation</h4>
-<li><strong>Infinite Loop Prevention</strong> - Snippets that would trigger themselves are now blocked</li>
-<li><strong>Empty Content Detection</strong> - Prevents saving snippets with empty titles or content</li>
-<li><strong>Title Length Limits</strong> - Keeps snippet titles manageable (max 40 characters)</li>
-<li>Better error messages when snippet validation fails</li>
-<li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Sat, 31 Jan 2026 00:55:23 +0000</pubDate>
+            <pubDate>Sat, 31 Jan 2026 01:21:25 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.9/Retext-1.2.9.dmg"
-                sparkle:version="1.2.9"
-                sparkle:shortVersionString="1.2.9"
-                length="2218760"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.3.0/Retext-1.3.0.dmg"
+                sparkle:version="1.3.0"
+                sparkle:shortVersionString="1.3.0"
+                length="2179213"
                 type="application/octet-stream"
-                sparkle:edSignature="RY1XSdjVh9dA1qMMIfTY2jEOV5togTEA2eKsBa/ILjwC8cV5CcM/xBTg/IkD08HntrqDXQpmLC1qyiI9XgLTCQ==" />
+                sparkle:edSignature="nqc7Ifb8+CRAxC3BYLvX74wPSgfcehV+ds/3QhXzrNIB8EJWqpT/EVB/ZIHtQyyEl/Wq0JyINPdi5gbX4ny7DQ==" />
         </item>
     </channel>
 </rss>

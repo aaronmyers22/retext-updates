@@ -5,18 +5,32 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.8</title>
+            <title>Version 1.2.9</title>
             <description><![CDATA[
-                <h3>Retext 1.2.8</h3>
+                <h3>Retext 1.2.9</h3>
                 <h3>What's New</h3>
 
-<h4>Under the Hood</h4>
-<li><strong>Improved Test Coverage</strong> — Added 64+ unit tests covering snippet validation, tag filtering, keyboard shortcuts, and view state management</li>
-<li><strong>Code Quality</strong> — Better reliability through comprehensive testing of core models</li>
+<h4>Snippet Settings</h4>
+<li><strong>Max Title Length</strong> — Set your preferred limit (10-40 characters) in Settings</li>
+<li><strong>Auto-Remove Spaces</strong> — Spaces are automatically stripped from titles (toggle in Settings)</li>
+<li><strong>Cleaner Titles</strong> — Semicolons are automatically removed from titles</li>
+
+<h4>Improved Validation</h4>
+<li><strong>Instant Feedback</strong> — Errors and warnings now appear directly under the title as you type</li>
+<li><strong>Conflict Prevention</strong> — Can't create triggers that would conflict (e.g., "em" and "email")</li>
+<li><strong>Helpful Suggestions</strong> — When blocked, see alternative trigger names you can use</li>
+<li><strong>Friendlier Messages</strong> — Shorter, clearer error messages</li>
+
+<h4>Better Editing Experience</h4>
+<li><strong>Type Triggers Freely</strong> — Snippet expansion is disabled when editing in Retext</li>
+<li><strong>No Accidental Triggers</strong> — Type `;hello` in your content without it expanding</li>
 
 ---
 
 <h3>Previous Releases</h3>
+
+<h4>Test Coverage</h4>
+<li>Added 64+ unit tests covering snippet validation, tag filtering, keyboard shortcuts, and view state management</li>
 
 <h4>Smarter Snippet Validation</h4>
 <li><strong>Real-time feedback</strong> — See errors and warnings as you type, before saving</li>
@@ -76,14 +90,14 @@
 <li>Better error messages when snippet validation fails</li>
 <li>Warnings for titles containing spaces</li>
             ]]></description>
-            <pubDate>Fri, 30 Jan 2026 23:07:06 +0000</pubDate>
+            <pubDate>Sat, 31 Jan 2026 00:55:23 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.8/Retext-1.2.8.dmg"
-                sparkle:version="1.2.8"
-                sparkle:shortVersionString="1.2.8"
-                length="2192770"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.2.9/Retext-1.2.9.dmg"
+                sparkle:version="1.2.9"
+                sparkle:shortVersionString="1.2.9"
+                length="2218760"
                 type="application/octet-stream"
-                sparkle:edSignature="cnVTNibt0CalKSD4JFdDH4lL982Li8vqbDe+Rs910fevG3lH0qmxeVzJQEYWe1bu1V39gFxjEII6z5App9LXBg==" />
+                sparkle:edSignature="RY1XSdjVh9dA1qMMIfTY2jEOV5togTEA2eKsBa/ILjwC8cV5CcM/xBTg/IkD08HntrqDXQpmLC1qyiI9XgLTCQ==" />
         </item>
     </channel>
 </rss>

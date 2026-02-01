@@ -5,10 +5,17 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.3.0</title>
+            <title>Version 1.3.1</title>
             <description><![CDATA[
-                <h3>Retext 1.3.0</h3>
-                <h3>What's New in v1.3.0</h3>
+                <h3>Retext 1.3.1</h3>
+                <h3>What's New in v1.3.1</h3>
+
+<h4>Bug Fixes</h4>
+<li><strong>Fixed Checkout Links</strong> — Updated all purchase/upgrade links to the correct checkout page</li>
+
+---
+
+<h3>v1.3.0</h3>
 
 <h4>New Branded App Icon</h4>
 <li><strong>Fresh Look</strong> — New green logo with white "R" matches the retext.io website</li>
@@ -37,9 +44,7 @@
 
 <h3>Previous Releases</h3>
 
-<h4>v1.2.x — Test Coverage & AI Generation</h4>
-<li>Added 64+ unit tests covering snippet validation, tag filtering, keyboard shortcuts, and view state management</li>
-<li>Retext Cloud AI generation (Pro-only)</li>
+<h4>v1.2.x — Automatic Updates</h4>
 <li>Automatic update notifications on app launch</li>
 
 <h4>v1.1.x — Tag-Based Organization</h4>
@@ -53,14 +58,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Sat, 31 Jan 2026 01:21:25 +0000</pubDate>
+            <pubDate>Sun, 01 Feb 2026 22:46:48 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.3.0/Retext-1.3.0.dmg"
-                sparkle:version="1.3.0"
-                sparkle:shortVersionString="1.3.0"
-                length="2179213"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.3.1/Retext-1.3.1.dmg"
+                sparkle:version="1.3.1"
+                sparkle:shortVersionString="1.3.1"
+                length="2179228"
                 type="application/octet-stream"
-                sparkle:edSignature="nqc7Ifb8+CRAxC3BYLvX74wPSgfcehV+ds/3QhXzrNIB8EJWqpT/EVB/ZIHtQyyEl/Wq0JyINPdi5gbX4ny7DQ==" />
+                sparkle:edSignature="XVMbc67Tq8AH5fR+QHJMcQbs9WwRplVx8K2rnvigQfA0NmFXld19ffLoLVN+W5K4AGb63zE709EUYJ8QRtHzBg==" />
         </item>
     </channel>
 </rss>

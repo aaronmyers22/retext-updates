@@ -5,10 +5,19 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.3.3</title>
+            <title>Version 1.3.4</title>
             <description><![CDATA[
-                <h3>Retext 1.3.3</h3>
-                <h3>What's New in v1.3.3</h3>
+                <h3>Retext 1.3.4</h3>
+                <h3>What's New in v1.3.4</h3>
+
+<h4>Improvements</h4>
+<li><strong>Improved Edit View</strong> — Cleaner layout with tags inline, no scrolling required</li>
+<li><strong>Better Title Input</strong> — Titles now enforce max length as you type</li>
+<li><strong>Clearer Read-Only View</strong> — Content displays without input-style background</li>
+
+---
+
+<h3>v1.3.3</h3>
 
 <h4>Improvements</h4>
 <li><strong>Better License Activation</strong> — License key entry is now at the top of the upgrade window, no scrolling needed</li>
@@ -72,14 +81,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Tue, 03 Feb 2026 03:35:50 +0000</pubDate>
+            <pubDate>Tue, 03 Feb 2026 04:28:09 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.3.3/Retext-1.3.3.dmg"
-                sparkle:version="1.3.3"
-                sparkle:shortVersionString="1.3.3"
-                length="2179396"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.3.4/Retext-1.3.4.dmg"
+                sparkle:version="1.3.4"
+                sparkle:shortVersionString="1.3.4"
+                length="2172096"
                 type="application/octet-stream"
-                sparkle:edSignature="qEA6wchP85WlPIqRJZO8qIOI6GHJwJM6K3vGeq7Qw5FnV6w8b1I7NRtSQ/mn+jru5BvLpoD27BSNxzmk/e00DQ==" />
+                sparkle:edSignature="/CeQFMo7BHZWKDCVmZWpYv2N/YDp1kUm+nnhfoptvpB7ptOa5A8aaKCFGbUfFANMzHz3sE5aiaWS1WUM6FwuAw==" />
         </item>
     </channel>
 </rss>

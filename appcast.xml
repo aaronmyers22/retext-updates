@@ -5,10 +5,18 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.0</title>
+            <title>Version 1.4.1</title>
             <description><![CDATA[
-                <h3>Retext 1.4.0</h3>
-                <h3>What's New in v1.4.0</h3>
+                <h3>Retext 1.4.1</h3>
+                <h3>What's New in v1.4.1</h3>
+
+<h4>Improvements</h4>
+<li><strong>License Status</strong> — Toolbar badge now updates immediately when license state changes</li>
+<li><strong>Expired License Notice</strong> — Clear notification when your license has expired, with a Renew button</li>
+
+---
+
+<h3>What's New in v1.4.0</h3>
 
 <h4>Teams & Collaboration</h4>
 <li><strong>Team Snippets</strong> — Create a team, invite members, and share snippets across your organization</li>
@@ -114,14 +122,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Sun, 12 Apr 2026 18:53:13 +0000</pubDate>
+            <pubDate>Sun, 31 May 2026 00:14:59 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.4.0/Retext-1.4.0.dmg"
-                sparkle:version="1.4.0"
-                sparkle:shortVersionString="1.4.0"
-                length="2578754"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.4.1/Retext-1.4.1.dmg"
+                sparkle:version="1.4.1"
+                sparkle:shortVersionString="1.4.1"
+                length="3762332"
                 type="application/octet-stream"
-                sparkle:edSignature="4DAT/1KglUOjelSQun/bg68pagdvM3q7CjIIMU4H4Qv80E2GAoZf4Zz8qGtYGfsWmZEoMXCbEYblrbtU6BozAg==" />
+                sparkle:edSignature="Vhs2ipjz9DOD2DOuJZrQjN284kB/rH8qNs6KkTttCi+i/lQu4dg9dcE69bmbZRpzfHgqsrKiNF5rXvfvMJ5pDQ==" />
         </item>
     </channel>
 </rss>

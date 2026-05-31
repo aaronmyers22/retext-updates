@@ -5,10 +5,18 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.4</title>
+            <title>Version 1.4.5</title>
             <description><![CDATA[
-                <h3>Retext 1.4.4</h3>
-                <h3>What's New in v1.4.4</h3>
+                <h3>Retext 1.4.5</h3>
+                <h3>What's New in v1.4.5</h3>
+
+<h4>New</h4>
+<li><strong>Send Feedback</strong> — Share feedback and feature requests directly from Settings</li>
+<li><strong>Updated Pricing</strong> — Pro now starts at $4.99/month</li>
+
+---
+
+<h3>What's New in v1.4.4</h3>
 
 <h4>New</h4>
 <li><strong>Try AI Free</strong> — Free users get 1 complimentary AI generation to experience the feature</li>
@@ -137,14 +145,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Sun, 31 May 2026 22:39:52 +0000</pubDate>
+            <pubDate>Sun, 31 May 2026 23:14:11 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.4.4/Retext-1.4.4.dmg"
-                sparkle:version="1.4.4"
-                sparkle:shortVersionString="1.4.4"
-                length="3766606"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.4.5/Retext-1.4.5.dmg"
+                sparkle:version="1.4.5"
+                sparkle:shortVersionString="1.4.5"
+                length="3796634"
                 type="application/octet-stream"
-                sparkle:edSignature="5sP+U9MOdJjM4AsVmtXD/AEH/QdolrifFg2ekGpb9fqcd/aJGbi62K3v1KBZdJ1H06LXXkr788t0eqAH6R+GBA==" />
+                sparkle:edSignature="gPRs10OdoCJ1CKSRUEACZcGUtGk2hWyWqi5fyx/WdLLctICqagjepX6yQ6OUFmK95j8uVqES+/jpOpTk65KlAw==" />
         </item>
     </channel>
 </rss>

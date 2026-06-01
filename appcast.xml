@@ -5,10 +5,17 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.7</title>
+            <title>Version 1.4.8</title>
             <description><![CDATA[
-                <h3>Retext 1.4.7</h3>
-                <h3>What's New in v1.4.7</h3>
+                <h3>Retext 1.4.8</h3>
+                <h3>What's New in v1.4.8</h3>
+
+<h4>Bug Fixes</h4>
+<li><strong>Free AI Trial Fixed</strong> — Properly clears stale authentication from previous installations so free trial works on all machines</li>
+
+---
+
+<h3>What's New in v1.4.7</h3>
 
 <h4>Bug Fixes</h4>
 <li><strong>Free AI Trial Fixed</strong> — Free AI generation now works on all machines, including those with previous Retext installations</li>
@@ -159,14 +166,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 23:32:40 +0000</pubDate>
+            <pubDate>Mon, 01 Jun 2026 23:49:21 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.4.7/Retext-1.4.7.dmg"
-                sparkle:version="1.4.7"
-                sparkle:shortVersionString="1.4.7"
-                length="3797007"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.4.8/Retext-1.4.8.dmg"
+                sparkle:version="1.4.8"
+                sparkle:shortVersionString="1.4.8"
+                length="3797375"
                 type="application/octet-stream"
-                sparkle:edSignature="28qJ0mXP0AxTTqBRw56QZfMViw7Y7BTQA73QakObOntJ2eoKNhWHfJKZ+nEEII7fqmHb2TwpFfLr4ERibJu8Dg==" />
+                sparkle:edSignature="ql6QCtFsYMbrtrKSiXZf7rcthUbDiOmupN+SSxn5yJ/Ykui/J673FDb1s63XGbh2MDnPHBiWQ3Lh8dz0IET3Bg==" />
         </item>
     </channel>
 </rss>

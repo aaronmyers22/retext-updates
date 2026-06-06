@@ -5,10 +5,18 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.9</title>
+            <title>Version 1.5.0</title>
             <description><![CDATA[
-                <h3>Retext 1.4.9</h3>
-                <h3>What's New in v1.4.9</h3>
+                <h3>Retext 1.5.0</h3>
+                <h3>What's New in v1.5.0</h3>
+
+<h4>New</h4>
+<li><strong>Analytics Consent</strong> — Choose whether to share anonymous usage data on first launch</li>
+<li><strong>Update Notifications</strong> — Subtle in-app banner when a new version is available</li>
+
+---
+
+<h3>What's New in v1.4.9</h3>
 
 <h4>Bug Fixes</h4>
 <li><strong>Free AI Trial Fixed</strong> — Automatically retries with free trial when stale authentication prevents generation</li>
@@ -173,14 +181,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 23:58:56 +0000</pubDate>
+            <pubDate>Sat, 06 Jun 2026 17:40:36 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.4.9/Retext-1.4.9.dmg"
-                sparkle:version="1.4.9"
-                sparkle:shortVersionString="1.4.9"
-                length="3796479"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.5.0/Retext-1.5.0.dmg"
+                sparkle:version="1.5.0"
+                sparkle:shortVersionString="1.5.0"
+                length="3836290"
                 type="application/octet-stream"
-                sparkle:edSignature="djjAHKNiL6CqkTdN9IoZGM0KevIv5M0uAfDu6ADfmgae1luYzRGTcfu0i/g9NzAjS5TsiB+CYf8/hDD3K1jVAQ==" />
+                sparkle:edSignature="sh20wtYdPt3ez7y1l1G9EbnBFGVBPhyW/YtZcISGBTbdV+fUT9SmPZW8yIFHfDmILmNc3Ahhaxl9jayX6AQUDg==" />
         </item>
     </channel>
 </rss>

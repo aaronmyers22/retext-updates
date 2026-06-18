@@ -5,10 +5,17 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.5.0</title>
+            <title>Version 1.5.1</title>
             <description><![CDATA[
-                <h3>Retext 1.5.0</h3>
-                <h3>What's New in v1.5.0</h3>
+                <h3>Retext 1.5.1</h3>
+                <h3>What's New in v1.5.1</h3>
+
+<h4>Improvements</h4>
+<li><strong>UI Enhancements</strong> — Minor polish and performance improvements</li>
+
+---
+
+<h3>What's New in v1.5.0</h3>
 
 <h4>New</h4>
 <li><strong>Analytics Consent</strong> — Choose whether to share anonymous usage data on first launch</li>
@@ -181,14 +188,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Sat, 06 Jun 2026 17:40:36 +0000</pubDate>
+            <pubDate>Thu, 18 Jun 2026 22:37:34 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.5.0/Retext-1.5.0.dmg"
-                sparkle:version="1.5.0"
-                sparkle:shortVersionString="1.5.0"
-                length="3836290"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.5.1/Retext-1.5.1.dmg"
+                sparkle:version="1.5.1"
+                sparkle:shortVersionString="1.5.1"
+                length="3820172"
                 type="application/octet-stream"
-                sparkle:edSignature="sh20wtYdPt3ez7y1l1G9EbnBFGVBPhyW/YtZcISGBTbdV+fUT9SmPZW8yIFHfDmILmNc3Ahhaxl9jayX6AQUDg==" />
+                sparkle:edSignature="EMCAFLG3IGNGOoMDqFsdxi/lznroWzS2AARC3oUg/rznlHJ1LDFNaBgy9MpOoZYPUt/8T0A1xMmhSzFcjiNEAg==" />
         </item>
     </channel>
 </rss>

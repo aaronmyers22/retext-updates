@@ -5,10 +5,17 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.5.2</title>
+            <title>Version 1.5.3</title>
             <description><![CDATA[
-                <h3>Retext 1.5.2</h3>
-                <h3>What's New in v1.5.2</h3>
+                <h3>Retext 1.5.3</h3>
+                <h3>What's New in v1.5.3</h3>
+
+<h4>Improvements</h4>
+<li><strong>Stability improvements</strong> — Minor fixes and performance tuning</li>
+
+---
+
+<h3>What's New in v1.5.2</h3>
 
 <h4>Improvements</h4>
 <li><strong>Auto-Updates Fixed</strong> — Resolved update issues on macOS 26</li>
@@ -195,14 +202,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Thu, 18 Jun 2026 22:54:58 +0000</pubDate>
+            <pubDate>Thu, 18 Jun 2026 23:03:13 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.5.2/Retext-1.5.2.dmg"
-                sparkle:version="1.5.2"
-                sparkle:shortVersionString="1.5.2"
-                length="3902158"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.5.3/Retext-1.5.3.dmg"
+                sparkle:version="1.5.3"
+                sparkle:shortVersionString="1.5.3"
+                length="3904877"
                 type="application/octet-stream"
-                sparkle:edSignature="R2MpNrE3zLViLTJtWvPphRuaQso5Cz1Oqh6pk2kMtTX1ZugfA7pUXWrbKygcitchlJ8XqQ0SDWLXsyCqg8g5AA==" />
+                sparkle:edSignature="4Eb09HTUg0PQh/zEOVBsGP1VNKfX6blugV/ge7Uqsnbfe5B2qf1cN0Yn6rfGU5kldDXxZHBR2fE0Sj+a1ObxCw==" />
         </item>
     </channel>
 </rss>

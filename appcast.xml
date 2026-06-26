@@ -5,10 +5,17 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.5.4</title>
+            <title>Version 1.5.5</title>
             <description><![CDATA[
-                <h3>Retext 1.5.4</h3>
-                <h3>What's New in v1.5.4</h3>
+                <h3>Retext 1.5.5</h3>
+                <h3>What's New in v1.5.5</h3>
+
+<h4>Bug Fixes</h4>
+<li><strong>Intel Mac Support Fixed</strong> — Now builds as a verified Universal Binary (arm64 + x86_64)</li>
+
+---
+
+<h3>What's New in v1.5.4</h3>
 
 <h4>Bug Fixes</h4>
 <li><strong>Intel Mac Support</strong> — App now builds as a Universal Binary for both Apple Silicon and Intel Macs</li>
@@ -210,14 +217,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Thu, 25 Jun 2026 00:49:27 +0000</pubDate>
+            <pubDate>Fri, 26 Jun 2026 17:08:16 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.5.4/Retext-1.5.4.dmg"
-                sparkle:version="1.5.4"
-                sparkle:shortVersionString="1.5.4"
-                length="3876875"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.5.5/Retext-1.5.5.dmg"
+                sparkle:version="1.5.5"
+                sparkle:shortVersionString="1.5.5"
+                length="6442228"
                 type="application/octet-stream"
-                sparkle:edSignature="2XTv+YMGxWIsQLam0R/Q0t/vyPdAtcw7tH0GC3de0lcSRJpgwmZJmxD5BvMMLrFiVfxI+OyeDVXkQVG5/p+9AA==" />
+                sparkle:edSignature="r6NqdEcpUvegUmNWNwtEQ9u1wXgtpwyVKq/KMzQuiqR5QVnpDQ+Ccnpy1sfZgS1yRLWU7Xh9CMZNcj8MRBzwDg==" />
         </item>
     </channel>
 </rss>

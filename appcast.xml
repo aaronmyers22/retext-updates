@@ -8,7 +8,27 @@
             <title>Version 1.6.0</title>
             <description><![CDATA[
                 <h3>Retext 1.6.0</h3>
-                <h3>What's New in v1.5.5</h3>
+                <h3>What's New in v1.6.0</h3>
+
+<h4>New</h4>
+<li><strong>Interactive Tutorial</strong> — New users get a hands-on walkthrough that teaches snippet expansion by doing it, not just reading about it</li>
+<li><strong>Guided Snippet Creation</strong> — After the tutorial, pick from ready-made templates (email signature, phone number, quick reply, URL) to create your first snippet instantly</li>
+<li><strong>Dynamic Fields</strong> — Snippets now support live fields: `{date}`, `{time}`, `{clipboard}`, `{day}`, date math (`{date+7}`), and fill-in prompts (`{fill:Name}`)</li>
+<li><strong>Cursor Positioning</strong> — Add `{cursor}` to place your cursor exactly where you want it after expansion</li>
+
+<h4>Improvements</h4>
+<li><strong>Fill-in Dialog</strong> — Dynamic fill-in fields show a clean dialog box to enter values before expanding</li>
+<li><strong>Live Trigger Hints</strong> — Tutorial practice field shows real-time feedback as you type a trigger</li>
+<li><strong>Dynamic Fields Help</strong> — In-editor documentation for all 9 dynamic field types</li>
+
+<h4>Bug Fixes</h4>
+<li><strong>Cursor Positioning Fixed</strong> — Uses Accessibility API for reliable cursor placement in all apps</li>
+<li><strong>Fill-in Fields Focus</strong> — Dialog now properly restores focus to the previous app after inserting</li>
+<li><strong>Multiple {cursor} Handling</strong> — Extra `{cursor}` tags are stripped cleanly; only the first is used</li>
+
+---
+
+<h3>What's New in v1.5.5</h3>
 
 <h4>Bug Fixes</h4>
 <li><strong>Intel Mac Support Fixed</strong> — Now builds as a verified Universal Binary (arm64 + x86_64)</li>
@@ -217,14 +237,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Sat, 27 Jun 2026 02:37:35 +0000</pubDate>
+            <pubDate>Sat, 27 Jun 2026 02:46:51 +0000</pubDate>
             <enclosure
                 url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.6.0/Retext-1.6.0.dmg"
                 sparkle:version="1.6.0"
                 sparkle:shortVersionString="1.6.0"
-                length="6754688"
+                length="6815154"
                 type="application/octet-stream"
-                sparkle:edSignature="if6FnfuxJCGXF8lrIKvECWX5CS9uvfhoM58eqvL78qnVMn+VcoX+fT2WeDywXz9L8/ycCfVXfsnMnPK/yZS8Bg==" />
+                sparkle:edSignature="Mi858GkxWXIRxlaKtJWq33cwkwVuqGb2S2rUDl7rO5zFtEB+1HbdmdoYc2YIYa7VO2l+1QhdiUx3NhJD0gxLDw==" />
         </item>
     </channel>
 </rss>

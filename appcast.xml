@@ -5,10 +5,18 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.6.0</title>
+            <title>Version 1.7.0</title>
             <description><![CDATA[
-                <h3>Retext 1.6.0</h3>
-                <h3>What's New in v1.6.0</h3>
+                <h3>Retext 1.7.0</h3>
+                <h3>What's New in v1.7.0</h3>
+
+<h4>New Features</h4>
+<li><strong>Free Accounts</strong> — Sign in with Google to create a free account and unlock 10 snippets (up from 5)</li>
+<li><strong>Referral Program</strong> — Share your referral code from Settings and earn a free Pro month when a friend upgrades. Got a code from a friend? Enter it in Settings > Referrals</li>
+
+---
+
+<h3>What's New in v1.6.0</h3>
 
 <h4>New</h4>
 <li><strong>Interactive Tutorial</strong> — New users get a hands-on walkthrough that teaches snippet expansion by doing it, not just reading about it</li>
@@ -237,14 +245,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Sat, 27 Jun 2026 02:46:51 +0000</pubDate>
+            <pubDate>Sat, 18 Jul 2026 05:07:36 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.6.0/Retext-1.6.0.dmg"
-                sparkle:version="1.6.0"
-                sparkle:shortVersionString="1.6.0"
-                length="6815154"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.7.0/Retext-1.7.0.dmg"
+                sparkle:version="1.7.0"
+                sparkle:shortVersionString="1.7.0"
+                length="6867246"
                 type="application/octet-stream"
-                sparkle:edSignature="Mi858GkxWXIRxlaKtJWq33cwkwVuqGb2S2rUDl7rO5zFtEB+1HbdmdoYc2YIYa7VO2l+1QhdiUx3NhJD0gxLDw==" />
+                sparkle:edSignature="VX7mepkfq4l2s1frJtV/jWtPymmD8Q2zIxZGFUkpnJQnIfVYUAcpVZ77o/TPRX/jKG20ASgbtpe1D5FxWoveDw==" />
         </item>
     </channel>
 </rss>

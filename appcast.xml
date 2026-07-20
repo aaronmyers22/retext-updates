@@ -5,10 +5,18 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.7.0</title>
+            <title>Version 1.7.1</title>
             <description><![CDATA[
-                <h3>Retext 1.7.0</h3>
-                <h3>What's New in v1.7.0</h3>
+                <h3>Retext 1.7.1</h3>
+                <h3>What's New in v1.7.1</h3>
+
+<h4>New Features</h4>
+<li><strong>Add to Retext</strong> — Install any prompt template from retext.io with one click. Templates arrive as ready-to-use snippets with a suggested trigger</li>
+<li><strong>Pre-loaded First Launch</strong> — Download Retext from a template page on retext.io and that template imports automatically the first time you open the app</li>
+
+---
+
+<h3>What's New in v1.7.0</h3>
 
 <h4>New Features</h4>
 <li><strong>Free Accounts</strong> — Sign in with Google to create a free account and unlock 10 snippets (up from 5)</li>
@@ -245,14 +253,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Sat, 18 Jul 2026 05:07:36 +0000</pubDate>
+            <pubDate>Mon, 20 Jul 2026 04:39:21 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.7.0/Retext-1.7.0.dmg"
-                sparkle:version="1.7.0"
-                sparkle:shortVersionString="1.7.0"
-                length="6867246"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.7.1/Retext-1.7.1.dmg"
+                sparkle:version="1.7.1"
+                sparkle:shortVersionString="1.7.1"
+                length="6927599"
                 type="application/octet-stream"
-                sparkle:edSignature="VX7mepkfq4l2s1frJtV/jWtPymmD8Q2zIxZGFUkpnJQnIfVYUAcpVZ77o/TPRX/jKG20ASgbtpe1D5FxWoveDw==" />
+                sparkle:edSignature="/i8TZt9xAIsXi6wq2iqIYeT3Ta9XFnX6c7KH/3A5Une6xEqlGjlVWKCXlOnCw6r6MxQSMVBmvn540KnQA1k7AA==" />
         </item>
     </channel>
 </rss>

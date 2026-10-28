@@ -5,10 +5,25 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.7.2</title>
+            <title>Version 1.8.0</title>
             <description><![CDATA[
-                <h3>Retext 1.7.2</h3>
-                <h3>What's New in v1.7.2</h3>
+                <h3>Retext 1.8.0</h3>
+                <h3>What's New in v1.8.0</h3>
+
+<h4>New Features</h4>
+<li><strong>Menu bar</strong> - Retext now lives in your menu bar. Pause expansion in the app you are using or everywhere, see how many words your snippets saved today, and open Settings from there</li>
+<li><strong>Home</strong> - A new Home view shows your expansion stats, the apps you use snippets in most, and recent activity. All of it stays on your Mac</li>
+<li><strong>Per-app snippets</strong> - Limit a snippet to certain apps, or keep it out of others, so the same trigger can do different things in Mail and Slack</li>
+<li><strong>Import</strong> - Bring your snippets in from TextExpander, Espanso, Raycast, Alfred, or macOS text replacements, with a preview before anything is added</li>
+<li><strong>Shortcuts and Raycast</strong> - Insert snippets from the Shortcuts app or a new Raycast extension, with an optional local export you turn on in Settings</li>
+
+<h4>Improvements</h4>
+<li><strong>Clipboard</strong> - Whatever you had copied comes back after an expansion, including images and formatted text, even when expansions happen back to back</li>
+<li><strong>Unsaved work</strong> - Opening Home asks before discarding a snippet you have not saved yet</li>
+
+---
+
+<h3>What's New in v1.7.2</h3>
 
 <h4>Security</h4>
 <li><strong>Password fields</strong> - Snippets no longer expand while a password field is focused or Secure Input is on, in any app</li>
@@ -268,14 +283,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Wed, 28 Oct 2026 19:25:24 +0000</pubDate>
+            <pubDate>Wed, 28 Oct 2026 23:36:54 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.7.2/Retext-1.7.2.dmg"
-                sparkle:version="1.7.2"
-                sparkle:shortVersionString="1.7.2"
-                length="6936404"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.8.0/Retext-1.8.0.dmg"
+                sparkle:version="1.8.0"
+                sparkle:shortVersionString="1.8.0"
+                length="8433608"
                 type="application/octet-stream"
-                sparkle:edSignature="hgth4a801OYXd/1KuCrAt9t9JLbWzWtP0q5HKTIFuSgFCs7CncHRbkI1lJvTvlEOoHFW5wU0/5ChwGJ8y1NMCw==" />
+                sparkle:edSignature="IhzlmQzPYHjg35D7tmrrMLZOaEdVtrcbztiy2T0pTNI0G7vN60Jv20PyKUpe7mRsK3UepGuPAG/dzackE2+aBw==" />
         </item>
     </channel>
 </rss>

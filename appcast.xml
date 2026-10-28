@@ -5,10 +5,25 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.7.1</title>
+            <title>Version 1.7.2</title>
             <description><![CDATA[
-                <h3>Retext 1.7.1</h3>
-                <h3>What's New in v1.7.1</h3>
+                <h3>Retext 1.7.2</h3>
+                <h3>What's New in v1.7.2</h3>
+
+<h4>Security</h4>
+<li><strong>Password fields</strong> - Snippets no longer expand while a password field is focused or Secure Input is on, in any app</li>
+<li><strong>Bundled token removed</strong> - Earlier releases shipped a Polar access token inside the app. It has been revoked and is no longer included. If you are still on v1.0.4 or v1.0.5, please update: license checks in those two versions will stop working</li>
+<li><strong>Sign-in hardening</strong> - Sign-in redirects are now restricted to Retext's own callback, and Google accounts must have a verified email address</li>
+
+<h4>Fixes</h4>
+<li><strong>Nested snippets</strong> - A snippet referenced more than once now expands every time, the five-level nesting limit is enforced, and zero-width spaces in snippet content are preserved</li>
+<li><strong>Free AI trial</strong> - Each device now gets its own trial instead of all trial users sharing one daily limit</li>
+<li><strong>Template triggers</strong> - A template installed from retext.io that clashes with an existing trigger is now renamed with a number prefix, such as `2-sig`, so it can actually fire</li>
+<li><strong>Team sync</strong> - A sync client can no longer overwrite a snippet that belongs to another team</li>
+
+---
+
+<h3>What's New in v1.7.1</h3>
 
 <h4>New Features</h4>
 <li><strong>Add to Retext</strong> — Install any prompt template from retext.io with one click. Templates arrive as ready-to-use snippets with a suggested trigger</li>
@@ -253,14 +268,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Mon, 20 Jul 2026 04:39:21 +0000</pubDate>
+            <pubDate>Wed, 28 Oct 2026 19:25:24 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.7.1/Retext-1.7.1.dmg"
-                sparkle:version="1.7.1"
-                sparkle:shortVersionString="1.7.1"
-                length="6927599"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.7.2/Retext-1.7.2.dmg"
+                sparkle:version="1.7.2"
+                sparkle:shortVersionString="1.7.2"
+                length="6936404"
                 type="application/octet-stream"
-                sparkle:edSignature="/i8TZt9xAIsXi6wq2iqIYeT3Ta9XFnX6c7KH/3A5Une6xEqlGjlVWKCXlOnCw6r6MxQSMVBmvn540KnQA1k7AA==" />
+                sparkle:edSignature="hgth4a801OYXd/1KuCrAt9t9JLbWzWtP0q5HKTIFuSgFCs7CncHRbkI1lJvTvlEOoHFW5wU0/5ChwGJ8y1NMCw==" />
         </item>
     </channel>
 </rss>

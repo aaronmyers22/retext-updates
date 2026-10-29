@@ -5,10 +5,23 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.8.0</title>
+            <title>Version 1.8.1</title>
             <description><![CDATA[
-                <h3>Retext 1.8.0</h3>
-                <h3>What's New in v1.8.0</h3>
+                <h3>Retext 1.8.1</h3>
+                <h3>What's New in v1.8.1</h3>
+
+<h4>Accounts</h4>
+<li><strong>License on your account</strong> - Activating a license now links it to your Retext account, ready for Pro on your other devices. A license can only be linked to one account at a time; activating or signing in under a second account asks whether to move it. Pro on this Mac still follows the key stored here</li>
+<li><strong>Delete your account</strong> - You can delete your Retext account from Settings. Team owners need to hand the team to someone else first. There is a guide at retext.io/delete-account</li>
+<li><strong>Sign-in</strong> - Signing in with Google uses a safer hand-off between your browser and the app. Existing sign-ins keep working</li>
+
+<h4>Improvements</h4>
+<li><strong>Espanso import</strong> - Date variables are now imported as Retext date and time fields instead of plain text, with a note on any row whose format was changed</li>
+<li><strong>Shortcuts</strong> - Team snippets are only available to Shortcuts, Spotlight and Siri while "Include team snippets" is turned on in Settings</li>
+
+---
+
+<h3>What's New in v1.8.0</h3>
 
 <h4>New Features</h4>
 <li><strong>Menu bar</strong> - Retext now lives in your menu bar. Pause expansion in the app you are using or everywhere, see how many words your snippets saved today, and open Settings from there</li>
@@ -283,14 +296,14 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Wed, 28 Oct 2026 23:36:54 +0000</pubDate>
+            <pubDate>Thu, 29 Oct 2026 05:09:28 +0000</pubDate>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.8.0/Retext-1.8.0.dmg"
-                sparkle:version="1.8.0"
-                sparkle:shortVersionString="1.8.0"
-                length="8433608"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.8.1/Retext-1.8.1.dmg"
+                sparkle:version="1.8.1"
+                sparkle:shortVersionString="1.8.1"
+                length="8564597"
                 type="application/octet-stream"
-                sparkle:edSignature="IhzlmQzPYHjg35D7tmrrMLZOaEdVtrcbztiy2T0pTNI0G7vN60Jv20PyKUpe7mRsK3UepGuPAG/dzackE2+aBw==" />
+                sparkle:edSignature="+OWSeIuJ1nIohjU6u6C0a3s1XWf21Mk3cwzyWyS/O/6vk/5GpVGfLUpqiTkTxjU51xZG6Fy7cFl/9t2bSrT2DA==" />
         </item>
     </channel>
 </rss>

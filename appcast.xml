@@ -5,10 +5,31 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.8.1</title>
+            <title>Version 1.9.0</title>
             <description><![CDATA[
-                <h3>Retext 1.8.1</h3>
-                <h3>What's New in v1.8.1</h3>
+                <h3>Retext 1.9.0</h3>
+                <h3>What's New in v1.9.0</h3>
+
+Retext 1.9.0 requires macOS 26 (Tahoe). If your Mac runs macOS 15, Retext 1.8.1 keeps working and will not offer this update. Every new feature below is off until you turn it on in Settings.
+
+<h4>New Features</h4>
+<li><strong>Dictation</strong> - Hold the right Option key, speak, and let go. Your words are typed where the cursor is, transcribed on your Mac. If the text cannot be typed (you switched apps or clicked a password field), it waits in a small window with a Copy button instead</li>
+<li><strong>Hands-free dictation (beta)</strong> - Double-tap the right Option key and keep talking. Each sentence is typed when you pause. It pauses itself in password fields and password managers, while a note is recording, and during calls. If another app also opens on a double-tap of Option, such as the Claude desktop app, change that app's shortcut</li>
+<li><strong>Polish dictation (beta)</strong> - Removes filler words and fixes punctuation with Apple Intelligence on your Mac, with modes for messages, email and notes, and a different mode per app</li>
+<li><strong>Voice commands (beta)</strong> - Say "new paragraph", "delete that" or "insert snippet" followed by a snippet name while dictating</li>
+<li><strong>Snippet suggestions (beta)</strong> - As you type, Retext shows a matching snippet in faint text. Tab accepts it, Esc dismisses it. Snippets with dates and fill-in fields work too</li>
+<li><strong>AI suggestions (beta)</strong> - Short sentence completions from Apple Intelligence on your Mac, using only the paragraph you are typing</li>
+<li><strong>Notes</strong> - Record a meeting or a thought and get a transcript and summary on your Mac. Save any part of it as a snippet</li>
+<li><strong>Menu bar panel (beta)</strong> - Search and insert snippets, see recent dictations and notes, and pick a microphone, all from the menu bar</li>
+<li><strong>Clipboard history (beta)</strong> - Keep recent copies in the menu bar panel to paste, pin or save as a snippet. Copies from password managers and anything marked private are never kept</li>
+
+<h4>Improvements</h4>
+<li><strong>Home</strong> - Once you use dictation or suggestions, Home shows the words you dictated, your speaking speed and how much of your writing came from Retext</li>
+<li><strong>Microphone choice</strong> - Pick which microphone dictation uses</li>
+
+---
+
+<h3>What's New in v1.8.1</h3>
 
 <h4>Accounts</h4>
 <li><strong>License on your account</strong> - Activating a license now links it to your Retext account, ready for Pro on your other devices. A license can only be linked to one account at a time; activating or signing in under a second account asks whether to move it. Pro on this Mac still follows the key stored here</li>
@@ -296,14 +317,15 @@
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Thu, 29 Oct 2026 05:09:28 +0000</pubDate>
+            <pubDate>Thu, 29 Oct 2026 22:13:43 +0000</pubDate>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.8.1/Retext-1.8.1.dmg"
-                sparkle:version="1.8.1"
-                sparkle:shortVersionString="1.8.1"
-                length="8564597"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.9.0/Retext-1.9.0.dmg"
+                sparkle:version="1.9.0"
+                sparkle:shortVersionString="1.9.0"
+                length="11578902"
                 type="application/octet-stream"
-                sparkle:edSignature="+OWSeIuJ1nIohjU6u6C0a3s1XWf21Mk3cwzyWyS/O/6vk/5GpVGfLUpqiTkTxjU51xZG6Fy7cFl/9t2bSrT2DA==" />
+                sparkle:edSignature="xzUpsdFI4liNZmweMh+jgr3Cs6ReitySPl/iMjlBQI01K/QyY6NsHUEKFxeLhhGmqCPdQ55pcyGX+6/FZtFMCg==" />
         </item>
     </channel>
 </rss>

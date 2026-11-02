@@ -5,10 +5,23 @@
         <description>Updates for Retext</description>
         <language>en</language>
         <item>
-            <title>Version 1.9.1</title>
+            <title>Version 1.9.2</title>
             <description><![CDATA[
-                <h3>Retext 1.9.1</h3>
-                <h3>What's New in v1.9.1</h3>
+                <h3>Retext 1.9.2</h3>
+                <h3>What's New in v1.9.2</h3>
+
+<h4>Improvements</h4>
+<li><strong>Home</strong> - Snippets you accept from suggestions now count toward the totals on Home</li>
+<li><strong>Activity Monitor</strong> - Retext now shows its name in Activity Monitor and other process lists</li>
+
+<h4>Bug Fixes</h4>
+<li><strong>Team snippets</strong> - A team snippet deleted on another Mac now disappears from yours and stops expanding. Ones deleted before this update are removed the first time your team syncs</li>
+<li><strong>Pause</strong> - Pausing Retext from the menu bar now pauses snippet and AI suggestions too</li>
+<li><strong>Clipboard history</strong> - Text copied from a password field is no longer kept, including when you switch apps right after copying</li>
+
+---
+
+<h3>What's New in v1.9.1</h3>
 
 <h4>Improvements</h4>
 <li><strong>Hands-free key</strong> - Choose whether a double-tap of right Option or right Shift starts and stops hands-free dictation, in Settings under Voice Dictation. Pick right Shift if another app, such as the Claude desktop app, also opens on a double-tap of Option</li>
@@ -328,15 +341,15 @@ Retext 1.9.0 requires macOS 26 (Tahoe). If your Mac runs macOS 15, Retext 1.8.1 
 <li>Infinite loop prevention and snippet validation</li>
 <li>Keyboard shortcuts: ⌘E to edit, ⌘↩ to save, Esc to cancel</li>
             ]]></description>
-            <pubDate>Thu, 29 Oct 2026 23:56:58 +0000</pubDate>
+            <pubDate>Mon, 02 Nov 2026 01:17:24 +0000</pubDate>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.9.1/Retext-1.9.1.dmg"
-                sparkle:version="1.9.1"
-                sparkle:shortVersionString="1.9.1"
-                length="11546516"
+                url="https://github.com/aaronmyers22/retext-updates/releases/download/v1.9.2/Retext-1.9.2.dmg"
+                sparkle:version="1.9.2"
+                sparkle:shortVersionString="1.9.2"
+                length="11579715"
                 type="application/octet-stream"
-                sparkle:edSignature="OU+2DaC17qTtFN6gXt9oqUZcEjtYBR9oO891c1z44dfXEXIlYmjKrJZyhEGtfTETSt1NOYiM71AQESJZFMXdCw==" />
+                sparkle:edSignature="/p7filS/DKHXkvcVEFpbafDlYTYFe0GOL9cuuApI68H8IkAGLOq9nwc7jlO6vVgqOjGzISMFxWrcT76XLR3WAw==" />
         </item>
     </channel>
 </rss>
